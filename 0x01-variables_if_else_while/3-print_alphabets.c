@@ -2,7 +2,7 @@
 
 /**
  * main - prints alphabet in lower and upper case
- * Return: Alwyas 0
+ * Return: Always 0
  */
 
 int main(void)
