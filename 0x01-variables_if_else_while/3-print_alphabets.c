@@ -2,13 +2,12 @@
 #include <stdlib.h>
 
 /**
- * main - prints alphabet in lower and upper case
- * Return: Always 0
+ * main - prints alphabet in b oth lower and upper cases
+ * Return: Always 0 (Success)
  */
 
 int main(void)
 {
-
 	char ch = 'a';
 	char CH = 'A';
 
@@ -19,7 +18,7 @@ int main(void)
 	}
 	while (CH <= 'Z')
 	{
-		putchar(CH)
+		purchar(CH);
 		CH++;
 	}
 
