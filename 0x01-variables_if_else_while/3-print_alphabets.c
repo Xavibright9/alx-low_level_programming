@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.hi>
 
 /**
  * main - prints alphabet in lower and upper case
@@ -8,12 +8,20 @@
 
 int main(void)
 {
-	char ch;
 
-	for (ch = 'a'; ch = 'z'; ch++)
+	int ch = 'a';
+	int CH = 'A';
+
+	while (ch <= 'z')
+	{
 		putchar(ch);
-	for (ch = 'A'; ch = 'Z'; ch++)
-		putchar(ch);
+		ch++;
+	}
+	while (CH <= 'Z')
+	{
+		putchar(CH)
+		CH++;
+	}
 
 	putchar('\n');
 	return (0);
