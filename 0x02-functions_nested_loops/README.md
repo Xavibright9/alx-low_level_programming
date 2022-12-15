@@ -14,3 +14,8 @@ C - Functions, nested loops
 | `9-times_table.c` | Prints the 9 times table starting with 0 |
 | `10-add.c` | Adds two integers and return the results |
 | `11-print_to_98.c` | Prints all natural numbers from `n` to 98 |
+| `100-times_table.c` | Prints the `n` times table, starting with 0 |
+| `101-natural.c` | Computes and prints the sum of all the multiplies of `3` or `5` below `1024` |
+| `102-fibonacci.c` | Prints the first 50 Fibonacci numbers, starting with `1` and `2` |
+| `103-fibonacci.c` | Finds and prints the sum of the even-valued terms |
+| `104-fibonacci.c` | Finds and prints the first 98 Fibonacci numbers |
